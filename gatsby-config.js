@@ -25,10 +25,6 @@ module.exports = {
 			}
 		},
 		{
-			resolve: `gatsby-transformer-remark`,
-			options: {}
-		},
-		{
 			resolve: `gatsby-plugin-manifest`,
 			options: {
 				name: `Starter Blog`,
