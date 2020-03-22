@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Starter Blog`,
-    author: `Rachelle Rathbone`,
+    author: `Henrik Otterheim`,
     description: `A blog that shows you the awesome power of gatsby.`,
     social: {
       twitter: `coding_love`,
@@ -34,6 +34,6 @@ module.exports = {
       },
     },
     `gatsby-plugin-react-helmet`,
-    `gatsby-plugin-offline`
+    `gatsby-plugin-offline`,
   ],
 }
