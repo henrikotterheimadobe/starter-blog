@@ -6,7 +6,7 @@ const contentfulConfig = {
 }
 
 module.exports = {
-  pathPrefix: `/blog`,
+  //pathPrefix: `/blog`,
   siteMetadata: {
     title: `Starter Blog`,
     subtitle: `Built with React and Gatsby`,
